@@ -1,0 +1,28 @@
+/*
+ data types are of two type primitive and non-primitive.
+ Non-primitive-> String,arrays,class,structure,etc.
+ primitive -> boolean and numeric
+ numeric-> Character and Integral
+ Integral->Integer and floating point
+ Boolean-> boolean
+ Character->char
+ Integer->byte,short,int,long
+ Floating Point->float,double
+ primitive->byte,short,int,long,float,double,char,boolean
+
+ 1byte = 8bits;
+ char(size)->2byte; default value 0(blank space)
+ short(size)->2byte;default value 0
+ int(size)->4byte;default value 0
+ long(size)->8byte;default value 0
+ float(size)->4byte;default value 0.0
+ double(size)->8byte;default value 0.0
+ boolean(size)->1bit(but proper size decided at run time,jvm will decide) default false
+
+ size of primitive data type is fixed
+ non primitive size will be allocated at run time as you specified
+
+
+
+
+ */
